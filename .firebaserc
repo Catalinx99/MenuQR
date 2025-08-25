@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "qrmenu99"
+  },
+  "targets": {
+    "qrmenu99": {
+      "hosting": {
+        "menuqr-ro": [
+          "qrmenu99"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
